@@ -31,9 +31,9 @@ Documentation:
 
 Scripting:
 
-visualisation:
+Visualization:
 
-Problem Analetics:
+Problem Analytics:
 
 Modelling: 
 

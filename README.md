@@ -19,21 +19,11 @@ Consumer Price Index
 
 ## Project team members
 
-Team lead: Fateme Aydin
+### Team lead: Fateme Aydin
 
-Mentor:Todd Brett , Kaitlin Bustos
+### Mentor:Todd Brett , Kaitlin Bustos
 
-Documentation:
-
-Scripting:
-
-Visualization:
-
-Problem Analytics:
-
-Modelling: 
-
-Sanity checking: 
+### Team members' names: Valerie Kistrina, Vibhuti Gandhi, Jason Dang, Megan Andrews
 
 ## Vancouver Datajam 2021 Schedule:
 

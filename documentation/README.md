@@ -1,8 +1,6 @@
 # Project documentation
 
-Use this directory to store documentation related to your project:
-
-##Project statement
+### Project statement
 - Which areas were affected the most during the pandemic?
 - How were the trends on those products?
 - What were the high-demand products during the pandemic?

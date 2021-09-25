@@ -1,4 +1,5 @@
-# Project Title
+# Analysis on Monthly Average Retail Prices
+
 
 Analysis on Monthly Average Retail Prices throughout August 2019 - August 2021 period 
 

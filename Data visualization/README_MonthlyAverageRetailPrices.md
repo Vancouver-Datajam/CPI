@@ -30,6 +30,7 @@ Used .corr() function to get correlation between variables, and created correlat
 
 Original Dataset:
 Statistics Canada. Table 18-10-0002-01 Monthly average retail prices for food and other selected products
+
 Cleaned/filtered data sets:
 - monthly_average_retail_prices.xlsx
 - monthly_average_retail_prices_with_key.xlsx

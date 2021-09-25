@@ -2,6 +2,10 @@
 
 Consumer Price Index
 
+## Project goal
+
+The goal of this project is to study trends in consumer behaviour and national prices for various products and services during the pendemic. This project aims to show what was the consumer price index before and after the pandemic. How shopping behavior started to change and also prices started to vary based on that. This proejct will help us know what products and services we need to focus on during any pandemic and how we can prevent price increases for essential products and services.
+
 ## Project statement
 
 - Which areas were affected the most during the pandemic?

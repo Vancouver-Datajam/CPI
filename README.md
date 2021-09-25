@@ -27,7 +27,7 @@ The goal of this project is to study trends in consumer behaviour and national p
 
 ### Mentor:Todd Brett , Kaitlin Bustos
 
-### Team members' names: Valerie Kistrina, Vibhuti Gandhi, Jason Dang, Megan Andrews, Sergio Olinsser Aragon Grijalva, Pratik Goswami
+### Team members' names: Valerie Kistrina, Vibhuti Gandhi, Jason Dang, Megan Andrews, Sergio Olinsser Aragon Grijalva, Pratik Goswami, Young Kweon
 
 ## Vancouver Datajam 2021 Schedule:
 

@@ -13,7 +13,7 @@ Consumer Price Index
 - Could we offer another product instead of those?
 - Which products had the most price thanges?
 - Were they essential products?
-- How prices are going to be in the next 12 month?
+- How prices will change in the next 12 month?
 - How trends will change in the next 12 month?
 
 

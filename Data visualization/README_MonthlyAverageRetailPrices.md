@@ -37,12 +37,14 @@ Cleaned/filtered data sets:
 
 ### Executing program
 
-Run in Python after including files (monthly_average_retail_prices.xlsx, monthly_average_retail_prices_with_key.xlsx) and libraries
+Run in Python IDE after including files (monthly_average_retail_prices.xlsx, monthly_average_retail_prices_with_key.xlsx) and libraries
 
 ## Authors
 
 Valerie Kistrina 
+
 Special thanks for Statistics Canada for the dataset:
+
 Statistics Canada. Table 18-10-0002-01 Monthly average retail prices for food and other selected products
 
 ## License

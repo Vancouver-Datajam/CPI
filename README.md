@@ -11,11 +11,11 @@ Consumer Price Index
 - Where are the trends and price changes related to each other?
 - Were these products essential?
 - Could we offer another product instead of those?
-- Which products had the most price thanges?
+- Which products had the most price changes?
 - Were they essential products?
-- How prices will change in the next 12 month?
-- How trends will change in the next 12 month?
-
+- Is there any relationship between demand and price changes?
+- How prices will change in the next 12 months?
+- How trends will change in the next 12 months?
 
 ## Project team members
 

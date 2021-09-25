@@ -23,7 +23,7 @@ Consumer Price Index
 
 ### Mentor:Todd Brett , Kaitlin Bustos
 
-### Team members' names: Valerie Kistrina, Vibhuti Gandhi, Jason Dang, Megan Andrews
+### Team members' names: Valerie Kistrina, Vibhuti Gandhi, Jason Dang, Megan Andrews, Sergio Olinsser Aragon Grijalva
 
 ## Vancouver Datajam 2021 Schedule:
 

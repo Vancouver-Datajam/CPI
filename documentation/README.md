@@ -12,6 +12,10 @@
 - Were they essential products?
 - How prices are going to be in the next 12 month?
 - How trends will change in the next 12 month?
-3. Write ups your team developed.
-4. Diagrams your team designed.
-5. Documentation on the process you followed.
+### Write ups your team developed
+Machine learning
+Data analyzing
+Data modelling
+Data visualization
+Problem-solving
+Storytelling

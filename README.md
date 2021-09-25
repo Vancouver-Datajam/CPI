@@ -1,10 +1,25 @@
 ## Project title
 
-Consumer Price Index
+CPI - Consumer Price Index
 
-## Project goal
+## Acknowledgement
 
-The goal of this project is to study trends in consumer behaviour and national prices for various products and services during the pendemic. This project aims to show what was the consumer price index before and after the pandemic. How shopping behavior started to change and also prices started to vary based on that. This proejct will help us know what products and services we need to focus on during any pandemic and how we can prevent price increases for essential products and services.
+Project ideation by Fateme Aydin, with support from Laura G. Funderburk and Lisa Cao
+
+## Description of Dataset
+
+The consumer price index, known as CPI, is an indicator to show price changes of goods and services over time. It is like a basket full of all the goods and services that a Canadian pays for each month. Each item in the basket has its portion. For instance, we typically spend more money on gas than milk to take a significant amount in the basket than milk. The target populations are families and individuals living in urban and rural private households in Canada.
+
+These prices are collected monthly from designated retail outlets by interviewers and other sources like the internet, telephone, etc. All quality and quantity changes have been cons,ered in the CPI.
+
+There are some exceptions in collecting prices for goods and services or in the target population:
+- Sales taxes and any other indirect taxes paid by consumers
+- People living in the collective households, such as members of communal colonies, prison inmates, people living on Indian reserves
+
+## Project description
+This project aims to study trends in consumer behaviour and national prices for various products and services during the pandemic. This project aims to work on data that shows what was the consumer price index before and after the pandemic. How shopping behaviour started to change and also prices started to vary based on that. What is the relationship between products and what people tend to buy each month?
+
+This project will help us know what products and services we need to focus on during any pandemic and how we can prevent price increases for essential products and services.
 
 ## Project statement
 
@@ -21,43 +36,29 @@ The goal of this project is to study trends in consumer behaviour and national p
 - How prices will change in the next 12 months?
 - How trends will change in the next 12 months?
 
-## Project team members
+## Project team members with rules
 
 ### Team lead: Fateme Aydin
 
 ### Mentor:Todd Brett , Kaitlin Bustos
 
-### Team members' names: Valerie Kistrina, Vibhuti Gandhi, Jason Dang, Megan Andrews, Sergio Olinsser Aragon Grijalva, Pratik Goswami, Young Kweon
+- Visualization: Sergio Olinsser, Aragon Grijalva, Pratik Goswami, Valerie Kistrina
+- Data manipulation: Valerie Kistrina, Pratik Goswami, Sergio Olinsser, Aragon Grijalva,
+- Machine learning model#1: Vibhuti Gandhi
+- Machine learning model#2:Sergio Olinsser
+- Documentation: Valerie Kistrina, Megan Andrews, Jason Dang
+- Presentation: Valerie Kistrina
+- GitHub: Young Kweon
 
-## Vancouver Datajam 2021 Schedule:
+## Data Source
+ 
+- Statistics Canada: [Monthly adjusted consumer expenditure basket weights](https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1810026401) 
+- Statistics Canada: [Monthly adjusted price index, provisional](https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1810026301)
+- Statistics Canada: [Consumer Price Index, monthly, seasonally adjusted](https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1810000601)
+- Statistics Canada: [Consumer Price Index (CPI)](https://www23.statcan.gc.ca/imdb/p2SV.pl?Function=getSurvey&SDDS=2301)
 
-### Main page: https://vancouverdatajam.ca/
-#### Event format: 100% online
+- [An Overview of Canada’s Consumer Price Index (CPI) - YouTube](https://www.youtube.com/watch?v=qfKmJe3CK6E)
+- [The Consumer Price Index and Your Experience of Price Change - YouTube](https://www.youtube.com/watch?v=U0xDcqE-zNs)
 
-#### Important dates: 
-
-|Date | Action item |
-| - | - |
-|Sep 13 - 17 |Participants are let in Discord, teams are formed|
-|Sep 18 |[Workshop day!](https://www.vancouverdatajam.ca/workshops) Keynote: Making AI responsible with May Masoud|
-|Sep 19 |Project statements are released|
-|Sep 19-24 |Teams may work asynchronously (limited help desk support)|
-|Sep 25 |Keynote talks, help desk support provided during the day, project submission deadline, career panel. See [speakers](https://www.vancouverdatajam.ca/speakers)|
-
-#### Power up Saturday September 25 - suggested team schedule. All times in PDT
-
-|Time| Action item|
-| - | - |
-|8:00 - 8:10| Land acknowledgement, opening remarks |
-|8:10 - 8:40| Keynote: Role of Statistics in Data Science: Applications in Biomedical Sciences with Prof. Jemila Hamid | 
-|8:40 - 9:10| Keynote: How to use the tools of data science to benefit Indigenous peoples and organizations  with Hannes Edinger |
-|9:10 -  9:30| Keynote Q&A |
-|9:30 | Help desk opens up, teams work on their project |
-|9:30 - 10:00| Teams brainstorm tasks for the day|
-|12:30 - 13:00| Team check in: share exploratory analysis results |
-|15:30 - 16:00| Team check in: teams discuss presentation format and preliminary results|
-|16:00 - 16:45| Teams prepare their 5-10 minute presentation, teams ensure all code is documented and stored in GitHub|
-|17:00| Project video submission deadline|
-|17:30 - 18:30| Project videos released on YouTube. Vote for your favourite team demo!| 
-|18:30 - 20:00 | Career panel|
-|20:00 - 20:30 | People's Choice Award presented. Closing remarks|
+## Data License
+Link to Statistics Canada License: https://www.statcan.gc.ca/eng/reference/licence

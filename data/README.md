@@ -6,3 +6,11 @@ These prices are collected monthly from designated retail outlets by interviewer
 There are some exceptions in collecting prices for goods and services or in the target population:
 - Sales taxes and any other indirect taxes paid by consumers
 - People living in the collective households, such as members of communal colonies, prison inmates, people living on Indian reserves
+## Data Source
+- Statistics Canada: Monthly adjusted consumer expenditure basket weights
+- Statistics Canada: Monthly adjusted price index, provisional
+- Statistics Canada: Consumer Price Index, monthly, seasonally adjusted
+- Statistics Canada: Consumer Price Index (CPI)
+- An Overview of Canada’s Consumer Price Index (CPI) - YouTube
+- The Consumer Price Index and Your Experience of Price Change - YouTube
+

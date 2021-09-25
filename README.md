@@ -4,17 +4,34 @@ This repository contains a Python project template.
 
 ## Project title
 
+Consumer Price Index
+
 ## Project statement
+
+- Which areas were affected the most during the pandemic?
+- How were the trends on those products?
+- What were the high-demand products during the pandemic?
+- How were the prices changes on those products?
+- Where are the trends and price changes related to each other?
+- Were these products essential?
+- Could we offer another product instead of those?
+- What were the most price changes on the products?
+- Were they essential products?
+
 
 ## Project team members
 
-Team lead:
+Team lead: Fateme Aydin
 
-Mentor:
+Mentor:Todd Brett , Kaitlin Bustos
 
 Documentation:
 
 Scripting:
+
+visualisation:
+
+Problem Analetics:
 
 Modelling: 
 

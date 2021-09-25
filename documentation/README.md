@@ -13,9 +13,9 @@
 - How prices are going to be in the next 12 month?
 - How trends will change in the next 12 month?
 ### Write ups your team developed
-Machine learning
-Data analyzing
-Data modelling
-Data visualization
-Problem-solving
-Storytelling
+- Machine learning
+- Data analyzing
+- Data modelling
+- Data visualization
+- Problem-solving
+- Storytelling

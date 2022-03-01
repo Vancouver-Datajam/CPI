@@ -43,7 +43,7 @@ This project will help us know what products and services we need to focus on du
 ### Mentor:Todd Brett , Kaitlin Bustos
 
 - Visualization: Sergio Olinsser, Aragon Grijalva, Pratik Goswami, Valerie Kistrina
-- Data manipulation: Valerie Kistrina, Pratik Goswami, Sergio Olinsser, Aragon Grijalva,
+- Data manipulation: Valerie Kistrina, Pratik Goswami, Sergio Olinsser, Aragon Grijalva, Vibhuti Gandhi
 - Machine learning model#1: Vibhuti Gandhi
 - Machine learning model#2:Sergio Olinsser
 - Documentation: Valerie Kistrina, Megan Andrews, Jason Dang
